@@ -22,6 +22,7 @@
       "type": "feature",
       "feature_type": "trait",
       "name": "Size",
+      "icon": "👤",
       "effects": [
         {
           "effect": "The noncombatant can be size 1S, 1M, 1L, or 2."
