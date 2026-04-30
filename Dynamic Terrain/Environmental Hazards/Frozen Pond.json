@@ -82,7 +82,8 @@
     {
       "type": "feature",
       "feature_type": "ability",
-      "name": "Power Roll + 2:",
+      "name": "Icy Water",
+      "icon": "❗️",
       "keywords": [
         "Melee",
         "Strike"
@@ -93,6 +94,7 @@
       "trigger": "A creature or object enters or falls prone in a square of the frozen pond.",
       "effects": [
         {
+      "roll": "Power Roll + 2",
           "tier1": "Slide 1",
           "tier2": "1 cold damage; M < 1 slowed (save ends)",
           "tier3": "3 cold damage; M < 2 restrained (save ends)"
