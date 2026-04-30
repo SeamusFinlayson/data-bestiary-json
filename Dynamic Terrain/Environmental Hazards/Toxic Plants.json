@@ -1,5 +1,5 @@
 {
-  "type": "featureblock",
+  "type": "dynamicterrain",
   "featureblock_type": "Hazard Hexer",
   "name": "Toxic Plants",
   "level": 2,

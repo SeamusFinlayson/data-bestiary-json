@@ -1,5 +1,5 @@
 {
-  "type": "featureblock",
+  "type": "dynamicterrain",
   "featureblock_type": "Fortification Defender",
   "name": "Column of Blades",
   "level": 3,

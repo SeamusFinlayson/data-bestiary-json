@@ -1,5 +1,5 @@
 {
-  "type": "featureblock",
+  "type": "dynamicterrain",
   "featureblock_type": "Siege Engine Artillery",
   "name": "Iron Dragon",
   "level": 4,

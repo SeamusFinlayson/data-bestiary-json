@@ -1,5 +1,5 @@
 {
-  "type": "featureblock",
+  "type": "dynamicterrain",
   "featureblock_type": "Relic Controller",
   "name": "The Chronal Hypercube",
   "level": 3,

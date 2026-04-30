@@ -1,5 +1,5 @@
 {
-  "type": "featureblock",
+  "type": "dynamicterrain",
   "featureblock_type": "Trap Ambusher",
   "name": "Snare Trap",
   "level": 1,

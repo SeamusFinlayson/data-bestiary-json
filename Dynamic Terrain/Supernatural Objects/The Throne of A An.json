@@ -1,5 +1,5 @@
 {
-  "type": "featureblock",
+  "type": "dynamicterrain",
   "featureblock_type": "Relic Controller",
   "name": "The Throne of A'An",
   "level": 4,
